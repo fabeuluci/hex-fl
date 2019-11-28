@@ -1,0 +1,14 @@
+{
+  "name": "hex-fl",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabeuluci/hex-fl.git"
+  },
+  "main": "out/main/index.js",
+  "typings": "out/main/index.d.ts"
+}
